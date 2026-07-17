@@ -5128,3 +5128,33 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.17-13.39.51:763][ 31]AssetCheck: /Game/timeSkip/timeSkipManager Validating asset
 [2026.07.17-13.39.51:765][ 31]AssetCheck: /Game/timeSkip/timeSkipWidget Validating asset
 [2026.07.17-13.39.51:801][ 31]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/molly/Documents/GitHub/lame-jam-64/afarminggame/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.17-13.45.18:709][644]LogDerivedDataCache: C:/Users/molly/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.07.17-13.45.59:323][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7356.752441
+[2026.07.17-13.46.00:323][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.17-13.46.00:323][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7357.419434, Update Interval: 358.555237
+[2026.07.17-13.46.40:426][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.07.17-13.46.41:930][254]LogSlate: Window 'Save Content' being destroyed
+[2026.07.17-13.46.45:413][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.07.17-13.46.45:413][531]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
+[2026.07.17-13.46.48:786][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.07.17-13.46.49:328][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.17-13.46.49:390][719]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.07.17-13.46.49:424][719]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.07.17-13.46.49:424][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.07.17-13.46.49:441][719]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.07.17-13.46.49:442][719]LogSavePackage: Moving '../../../../../../Users/molly/Documents/GitHub/lame-jam-64/afarminggame/Saved/BP_FirstPersonCharacter277A2F62440DBA51290E1EAEA3791E24.tmp' to '../../../../../../Users/molly/Documents/GitHub/lame-jam-64/afarminggame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.07.17-13.46.49:451][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.925 ms (total: 6.74 sec)
+[2026.07.17-13.46.49:506][719]LogContentValidation: Display: Starting to validate 1 assets
+[2026.07.17-13.46.49:506][719]LogContentValidation: Enabled validators:
+[2026.07.17-13.46.49:506][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.17-13.46.49:506][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.17-13.46.49:506][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.17-13.46.49:506][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.17-13.46.49:506][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.17-13.46.49:506][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.17-13.46.49:506][719]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.07.17-13.46.50:091][756]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.07.17-13.46.50:095][756]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2026.07.17-13.46.50:100][756]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2026.07.17-13.46.50:100][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.17-13.46.50:162][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
